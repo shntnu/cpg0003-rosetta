@@ -1,0 +1,14 @@
+md5: 82905b11f83d26a41c2b25ce9d89c306
+frozen: true
+deps:
+- etag: f7eaf3c9fc4c4d1e8cbbb5ac57629893
+  size: 93575102
+  version_id: e7wP8sEHmMWRs8R7EQ8tlZZeLyiYuj4b
+  hash: md5
+  path: 
+    s3://cellpainting-gallery/cpg0003-rosetta/broad/workspace/preprocessed_data/LINCS-Pilot1/CellPainting/replicate_level_cp_normalized_variable_selected.csv.gz
+outs:
+- md5: f7eaf3c9fc4c4d1e8cbbb5ac57629893
+  size: 93575102
+  hash: md5
+  path: replicate_level_cp_normalized_variable_selected.csv.gz

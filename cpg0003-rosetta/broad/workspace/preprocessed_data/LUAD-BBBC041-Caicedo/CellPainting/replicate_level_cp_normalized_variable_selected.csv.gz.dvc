@@ -1,0 +1,14 @@
+md5: 38a1609e6aef999cd0bf8dcaf4fd1e9f
+frozen: true
+deps:
+- etag: c79982a1d6eca9480e707c8d64c50b43
+  size: 15858878
+  version_id: XukHbPHoFSwV7r.C3BHiSz4.brg1MdNV
+  hash: md5
+  path: 
+    s3://cellpainting-gallery/cpg0003-rosetta/broad/workspace/preprocessed_data/LUAD-BBBC041-Caicedo/CellPainting/replicate_level_cp_normalized_variable_selected.csv.gz
+outs:
+- md5: c79982a1d6eca9480e707c8d64c50b43
+  size: 15858878
+  hash: md5
+  path: replicate_level_cp_normalized_variable_selected.csv.gz
