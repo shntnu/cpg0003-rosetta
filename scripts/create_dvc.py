@@ -1,5 +1,7 @@
 import os
 
+# aws s3 ls --recursive s3://cellpainting-gallery/cpg0003-rosetta/broad/workspace/preprocessed_data/ | awk '{print $4}' > file_list.txt
+
 # Read the file paths from file_list.txt into a list
 with open("file_list.txt", "r") as file:
     file_paths = [line.strip() for line in file.readlines() if line.strip()]
